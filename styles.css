@@ -7,10 +7,48 @@ body {
     
 }
 
-h1 {
+
+.nav {
+    background-color: #010409;
+    list-style-type: none;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+    border-bottom:1px solid #2F353D;
+    
+
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.banner{
     background-color: #010409;
     margin: 0px;
     padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-top:1px solid #2F353D;
     border-bottom:1px solid #2F353D;
+    display: flex;
+    align-items: center;
+}
+
+.banner h1 {
+    margin: 0px;
+    margin-left: 10px;
+}
+
+.banner img{
+    width: 60px;
+    height: 60px;
+}
+
+li a {
+    text-decoration: none;
+    color: inherit;
+    
 }
