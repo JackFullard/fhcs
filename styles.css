@@ -1,0 +1,16 @@
+body {
+    background-color: #0D1117;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+h1 {
+    background-color: #010409;
+    margin: 0px;
+    padding: 10px;
+    border-top:1px solid #2F353D;
+    border-bottom:1px solid #2F353D;
+}
