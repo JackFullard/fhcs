@@ -52,3 +52,39 @@ li a {
     color: inherit;
     
 }
+
+h2 {
+    text-align: center;
+}
+
+.teams li{
+    list-style-type: none;
+    display: inline-block;
+    align-items: center;
+}
+
+.teams img{
+    border: 3px solid orange;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    padding-bottom: 0px;
+    background-color: #010409;
+}
+
+.teams {
+    display: flex;
+    justify-content: center;
+}
+
+.teams ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+.teamname h3 {
+    display: block;
+}
+
+.playerpicname {
+}
