@@ -50,7 +50,6 @@ body {
 li a {
     text-decoration: none;
     color: inherit;
-    
 }
 
 h2 {
@@ -64,7 +63,7 @@ h2 {
 }
 
 .teams img{
-    border: 3px solid orange;
+    border: 3px solid #5E7F4E;
     width: 200px;
     height: 200px;
     padding: 5px;
@@ -86,6 +85,3 @@ h2 {
     display: block;
 }
 
-.playercard h4 {
-    align-items: center;
-}
